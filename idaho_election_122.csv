@@ -1,0 +1,369 @@
+,ElectionID,RaceID,GroupID,GroupName,GroupSequence,RaceName,VoteFor,NumPositions,NonPartisanRace,ContestWithdrawn,RunOff,MajorPercent,MinimumVotes,ContestantID,ContestantName,Party,PartyName,EarlyVotingVotes,MailBallotsVotes,ElectionDayVotes,ProvisionalVotes,TotalVotes,TimesCounted,BlankVoted,OverVotes,UnderVotes,ContestantColor,ContestantWithdrawn,ContestantVotePercent,StateRace
+0,122,1340,1215,District Court Judge- District 1,48,To succeed: Judge Cynthia K.C. Meyer,1,1,Y,N,N,0,0,3816,Cynthia K.C. Meyer,NON PARTISAN,Non Partisan,1675,5728,29205,0,36608,14083,0,4,16439,,N,100.00%,Y
+1,122,1341,1215,District Court Judge- District 1,48,To succeed: Judge John T. Mitchell,1,1,Y,N,N,0,0,3817,John T. Mitchell,NON PARTISAN,Non Partisan,1715,5798,29468,0,36981,14083,0,1,16155,,N,100.00%,Y
+2,122,1342,1215,District Court Judge- District 1,48,To succeed: Judge Lamont Christian Berecz,1,1,Y,N,N,0,0,3818,Lamont Christian Berecz,NON PARTISAN,Non Partisan,1569,5539,27862,0,34970,14083,0,5,17703,,N,100.00%,Y
+3,122,1343,1213,Supreme Court Justice,46,To succeed: Justice Colleen D. Zahn,1,1,Y,N,N,0,0,3476,Colleen D. Zahn,NON PARTISAN,Non Partisan,17786,31481,169652,0,218919,162725,0,2,89702,,N,100.00%,Y
+4,122,1344,1214,Court of Appeals Judge,47,To succeed: Judge Molly J. Huskey,1,1,Y,N,N,0,0,3814,Molly J. Huskey,NON PARTISAN,Non Partisan,17707,31151,170738,0,219596,162725,0,2,90229,,N,100.00%,Y
+5,122,1345,1215,District Court Judge- District 1,48,To succeed: Judge Barbara Buchanan,1,1,Y,N,N,0,0,3815,Barbara Buchanan,NON PARTISAN,Non Partisan,1633,5765,28659,0,36057,14083,0,4,16594,,N,100.00%,Y
+6,122,1347,1213,Supreme Court Justice,46,To succeed: Justice Robyn M. Brody,1,1,Y,N,N,0,0,3477,Robyn Brody,NON PARTISAN,Non Partisan,17730,31202,169747,0,218679,162725,0,1,90685,,N,100.00%,Y
+7,122,1453,1215,District Court Judge- District 1,48,To succeed: Judge Lansing Haynes,1,1,Y,N,N,0,0,3819,Barry McHugh,NON PARTISAN,Non Partisan,1748,5858,29416,0,37022,14083,0,1,16018,,N,100.00%,Y
+8,122,1454,1215,District Court Judge- District 1,48,To succeed: Judge Rich Christensen,1,1,Y,N,N,0,0,3820,Rich Christensen,NON PARTISAN,Non Partisan,1285,4573,19388,0,25246,14083,0,17,12257,,N,60.62%,Y
+9,122,1454,1215,District Court Judge- District 1,48,To succeed: Judge Rich Christensen,1,1,Y,N,N,0,0,3831,Stanley T. Mortensen,NON PARTISAN,Non Partisan,746,2148,13503,0,16397,14083,0,17,12257,,N,39.38%,Y
+10,122,1455,1218,District Court Judge- District 4,51,To succeed: Judge Cynthia Yee-Wallace,1,1,Y,N,N,0,0,3836,Cynthia Yee-Wallace,NON PARTISAN,Non Partisan,5086,12238,43174,0,60498,94480,0,0,40645,,N,100.00%,Y
+11,122,1456,1216,District Court Judge- District 2,49,To succeed: Judge Gregory Fitzmaurice,1,1,Y,N,N,0,0,3822,Adam H. Green,NON PARTISAN,Non Partisan,436,3334,10716,0,14486,0,0,0,3912,,N,100.00%,Y
+12,122,1457,1216,District Court Judge- District 2,49,To succeed: Judge Jay Gaskill,1,1,Y,N,N,0,0,3823,John H Bradbury,NON PARTISAN,Non Partisan,106,1163,5386,0,6655,0,0,4,1920,,N,38.58%,Y
+13,122,1457,1216,District Court Judge- District 2,49,To succeed: Judge Jay Gaskill,1,1,Y,N,N,0,0,3832,Justin J. Coleman,NON PARTISAN,Non Partisan,55,752,3133,0,3940,0,0,4,1920,,N,22.84%,Y
+14,122,1457,1216,District Court Judge- District 2,49,To succeed: Judge Jay Gaskill,1,1,Y,N,N,0,0,3833,Michelle M. Evans,NON PARTISAN,Non Partisan,341,2176,4136,0,6653,0,0,4,1920,,N,38.57%,Y
+15,122,1458,1218,District Court Judge- District 4,51,To succeed: Judge James S. Cawthon,1,1,Y,N,N,0,0,3837,James S. Cawthon,NON PARTISAN,Non Partisan,4986,12103,42455,0,59544,94480,0,0,41574,,N,100.00%,Y
+16,122,1459,1218,District Court Judge- District 4,51,To succeed: Judge Jason D. Scott,1,1,Y,N,N,0,0,3824,Jason D. Scott,NON PARTISAN,Non Partisan,4988,12060,42311,0,59359,94480,0,0,41736,,N,100.00%,Y
+17,122,1460,1216,District Court Judge- District 2,49,To succeed: Judge John C. Judge,1,1,Y,N,N,0,0,3825,John C. Judge,NON PARTISAN,Non Partisan,494,3525,10414,0,14433,0,0,0,3450,,N,100.00%,Y
+18,122,1461,1217,District Court Judge- District 3,50,To succeed: Judge Andrea L Courtney,1,1,Y,N,N,0,0,3826,Andrea L Courtney,NON PARTISAN,Non Partisan,3098,4614,23980,0,31692,30415,0,0,11369,,N,100.00%,Y
+19,122,1462,1217,District Court Judge- District 3,50,To succeed: Judge Davis Frederick VanderVelde,1,1,Y,N,N,0,0,3827,Davis F. VanderVelde,NON PARTISAN,Non Partisan,3081,4597,23730,0,31408,30415,0,0,11529,,N,100.00%,Y
+20,122,1463,1217,District Court Judge- District 3,50,To succeed: Judge Gene A. Petty,1,1,Y,N,N,0,0,3828,Gene A. Petty,NON PARTISAN,Non Partisan,3074,4568,23656,0,31298,30415,0,0,11679,,N,100.00%,Y
+21,122,1464,1218,District Court Judge- District 4,51,To succeed: Judge Jonathan Medema,1,1,Y,N,N,0,0,3829,Jonathan Medema,NON PARTISAN,Non Partisan,4943,12038,41974,0,58955,94480,0,0,42050,,N,100.00%,Y
+22,122,1465,1217,District Court Judge- District 3,50,To succeed: Thomas W. Whitney,1,1,Y,N,N,0,0,3834,Shari Dodge,NON PARTISAN,Non Partisan,1403,2065,10403,0,13871,30415,0,16,8562,,N,39.87%,Y
+23,122,1465,1217,District Court Judge- District 3,50,To succeed: Thomas W. Whitney,1,1,Y,N,N,0,0,3835,Thomas W. Whitney,NON PARTISAN,Non Partisan,2064,3183,15672,0,20919,30415,0,16,8562,,N,60.13%,Y
+24,122,1466,1218,District Court Judge- District 4,51,To succeed: Judge Lynn G. Norton,1,1,Y,N,N,0,0,3838,Lynn G. Norton,NON PARTISAN,Non Partisan,4957,12068,42007,0,59032,94480,0,0,41966,,N,100.00%,Y
+25,122,1467,1218,District Court Judge- District 4,51,To succeed: Judge Michael John Reardon,1,1,Y,N,N,0,0,3839,Michael J Reardon,NON PARTISAN,Non Partisan,5002,12183,42287,0,59472,94480,0,0,41555,,N,100.00%,Y
+26,122,1468,1218,District Court Judge- District 4,51,To succeed: Judge Nancy A. Baskin,1,1,Y,N,N,0,0,3840,Nancy A. Baskin,NON PARTISAN,Non Partisan,5007,12164,42095,0,59266,94480,0,0,41772,,N,100.00%,Y
+27,122,1469,1218,District Court Judge- District 4,51,To succeed: Judge Patrick Miller,1,1,Y,N,N,0,0,3841,Patrick Miller,NON PARTISAN,Non Partisan,4954,12079,41928,0,58961,94480,0,0,42028,,N,100.00%,Y
+28,122,1470,1218,District Court Judge- District 4,51,To succeed: Judge Peter G Barton,1,1,Y,N,N,0,0,3842,Peter G Barton,NON PARTISAN,Non Partisan,4936,12033,41781,0,58750,94480,0,0,42234,,N,100.00%,Y
+29,122,1471,1218,District Court Judge- District 4,51,To succeed: Judge Samuel A. Hoagland,1,1,Y,N,N,0,0,3843,Samuel A. Hoagland,NON PARTISAN,Non Partisan,4973,12062,42102,0,59137,94480,0,0,41930,,N,100.00%,Y
+30,122,1472,1218,District Court Judge- District 4,51,To succeed: Judge Steven Hippler,1,1,Y,N,N,0,0,3844,Steven Hippler,NON PARTISAN,Non Partisan,4954,12093,41930,0,58977,94480,0,0,42008,,N,100.00%,Y
+31,122,1473,1219,District Court Judge- District 5,52,To succeed: Judge Benjamin J. Cluff,1,1,Y,N,N,0,0,3845,Benjamin J. Cluff,NON PARTISAN,Non Partisan,2454,2824,18735,0,24013,0,0,0,6692,,N,100.00%,Y
+32,122,1474,1219,District Court Judge- District 5,52,To succeed: Judge Eric J. Wildman,1,1,Y,N,N,0,0,3846,Eric J. Wildman,NON PARTISAN,Non Partisan,2458,2824,18747,0,24029,0,0,0,6677,,N,100.00%,Y
+33,122,1475,1219,District Court Judge- District 5,52,To succeed: Judge Jonathan P. Brody,1,1,Y,N,N,0,0,3862,Jonathan P. Brody,NON PARTISAN,Non Partisan,2454,2804,18726,0,23984,0,0,0,6740,,N,100.00%,Y
+34,122,1476,1219,District Court Judge- District 5,52,To succeed: Judge Michael Patrick Tribe,1,1,Y,N,N,0,0,3847,Michael Patrick Tribe,NON PARTISAN,Non Partisan,2453,2807,18707,0,23967,0,0,0,6724,,N,100.00%,Y
+35,122,1477,1219,District Court Judge- District 5,52,To succeed: Judge Ned Williamson,1,1,Y,N,N,0,0,3848,Ned Williamson,NON PARTISAN,Non Partisan,2487,2861,18742,0,24090,0,0,0,6616,,N,100.00%,Y
+36,122,1478,1219,District Court Judge- District 5,52,To succeed: Judge Roger B. Harris,1,1,Y,N,N,0,0,3849,Roger B. Harris,NON PARTISAN,Non Partisan,2512,2817,19055,0,24384,0,0,0,6326,,N,100.00%,Y
+37,122,1479,1219,District Court Judge- District 5,52,To succeed: Judge Rosemary Emory,1,1,Y,N,N,0,0,3850,Rosemary Emory,NON PARTISAN,Non Partisan,2440,2810,18629,0,23879,0,0,0,6817,,N,100.00%,Y
+38,122,1480,1220,District Court Judge- District 6,53,To succeed: Judge Javier L Gabiola,1,1,Y,N,N,0,0,3851,Javier L Gabiola,NON PARTISAN,Non Partisan,3469,267,10831,0,14567,4149,0,0,3971,,N,100.00%,Y
+39,122,1481,1220,District Court Judge- District 6,53,To succeed: Judge Mitchell W. Brown,1,1,Y,N,N,0,0,3852,Mitchell W. Brown,NON PARTISAN,Non Partisan,3503,282,11177,0,14962,4149,0,0,3865,,N,100.00%,Y
+40,122,1482,1220,District Court Judge- District 6,53,To succeed: Judge Robert C. Naftz,1,1,Y,N,N,0,0,3853,Robert C. Naftz,NON PARTISAN,Non Partisan,3459,266,10781,0,14506,4149,0,0,4035,,N,100.00%,Y
+41,122,1483,1220,District Court Judge- District 6,53,To succeed: Judge Rudolph Enrico Carnaroli,1,1,Y,N,N,0,0,3854,"Rudolph ""Rick"" Carnaroli",NON PARTISAN,Non Partisan,3536,265,11002,0,14803,4149,0,0,3697,,N,100.00%,Y
+42,122,1484,1221,District Court Judge- District 7,54,To succeed: Judge Bruce L. Pickett,1,1,Y,N,N,0,0,3857,Bruce L. Pickett,NON PARTISAN,Non Partisan,1329,1724,30751,0,33804,19598,0,0,10211,,N,100.00%,Y
+43,122,1485,1221,District Court Judge- District 7,54,To succeed: Judge Dane H. Watkins Jr.,1,1,Y,N,N,0,0,3858,Dane H. Watkins Jr.,NON PARTISAN,Non Partisan,1329,1701,30619,0,33649,19598,0,0,10304,,N,100.00%,Y
+44,122,1486,1221,District Court Judge- District 7,54,To succeed: Judge Darren B. Simpson,1,1,Y,N,N,0,0,3859,Darren B. Simpson,NON PARTISAN,Non Partisan,1308,1700,30280,0,33288,19598,0,0,10562,,N,100.00%,Y
+45,122,1487,1221,District Court Judge- District 7,54,To succeed: Judge Stevan H Thompson,1,1,Y,N,N,0,0,3860,Stevan H Thompson,NON PARTISAN,Non Partisan,1288,1689,30203,0,33180,19598,0,0,10720,,N,100.00%,Y
+46,122,1488,1221,District Court Judge- District 7,54,To succeed: Judge Steven W. Boyce,1,1,Y,N,N,0,0,3861,Steven W. Boyce,NON PARTISAN,Non Partisan,1303,1705,30385,0,33393,19598,0,0,10519,,N,100.00%,Y
+47,122,1489,1168,United States Senator,1,United States Senator-Constitution,1,1,N,N,N,0,0,3863,Ray J. Writz,CON,Constitution Party,23,50,435,0,508,162725,0,1,211,#FF6600,N,100.00%,Y
+48,122,1490,1168,United States Senator,1,United States Senator-Democratic,1,1,N,N,N,0,0,3864,Ben Pursley,DEM,Democratic Party,1273,3348,9256,0,13877,162725,0,21,2497,#0000FF,N,42.20%,Y
+49,122,1490,1168,United States Senator,1,United States Senator-Democratic,1,1,N,N,N,0,0,3865,David Roth,DEM,Democratic Party,1946,5593,11468,0,19007,162725,0,21,2497,#0000FF,N,57.80%,Y
+50,122,1491,1168,United States Senator,1,United States Senator-Libertarian,1,1,N,N,N,0,0,3866,Idaho Sierra Law (Also known as Carta Reale Sierra),LIB,Libertarian Party,26,73,567,0,666,162725,0,2,379,#FFFF00,N,100.00%,Y
+51,122,1492,1168,United States Senator,1,United States Senator-Republican,1,1,N,N,N,0,0,3867,Brenda Bourn,REP,Republican Party,1605,2481,17322,0,21408,162725,0,128,14849,#FF0000,N,8.17%,Y
+52,122,1492,1168,United States Senator,1,United States Senator-Republican,1,1,N,N,N,0,0,3868,Mike Crapo,REP,Republican Party,14441,23243,138015,0,175699,162725,0,128,14849,#FF0000,N,67.06%,Y
+53,122,1492,1168,United States Senator,1,United States Senator-Republican,1,1,N,N,N,0,0,3869,Natalie M Fleming,REP,Republican Party,1329,2350,13066,0,16745,162725,0,128,14849,#FF0000,N,6.39%,Y
+54,122,1492,1168,United States Senator,1,United States Senator-Republican,1,1,N,N,N,0,0,3870,Scott Trotter,REP,Republican Party,2112,3355,21971,0,27438,162725,0,128,14849,#FF0000,N,10.47%,Y
+55,122,1492,1168,United States Senator,1,United States Senator-Republican,1,1,N,N,N,0,0,3871,Ramont Turnbull,REP,Republican Party,1507,2399,16817,0,20723,162725,0,128,14849,#FF0000,N,7.91%,Y
+56,122,1493,1169,United States Representative District 1,2,United States Representative District 1-Democratic,1,1,N,N,N,0,0,3872,Kaylee Peterson,DEM,Democratic Party,1095,4993,8785,0,14873,91063,0,2,1433,#0000FF,N,100.00%,Y
+57,122,1494,1169,United States Representative District 1,2,United States Representative District 1-Libertarian,1,1,N,N,N,0,0,3873,Joe Evans,LIB,Libertarian Party,17,68,394,0,479,91063,0,3,181,#FFFF00,N,100.00%,Y
+58,122,1495,1169,United States Representative District 1,2,United States Representative District 1-Republican,1,1,N,N,N,0,0,3874,Russ Fulcher,REP,Republican Party,8779,17180,98518,0,124477,91063,0,10,21184,#FF0000,N,100.00%,Y
+59,122,1496,1170,United State Representative District 2,3,United States Representative District 2-Democratic,1,1,N,N,N,0,0,3875,Wendy Norman,DEM,Democratic Party,2062,3703,11255,0,17020,71662,0,3,1977,#0000FF,N,100.00%,Y
+60,122,1497,1170,United State Representative District 2,3,United States Representative District 2-Republican,1,1,N,N,N,0,0,3876,Flint L. Christensen,REP,Republican Party,549,601,5901,0,7051,71662,0,57,5080,#FF0000,N,5.77%,Y
+61,122,1497,1170,United State Representative District 2,3,United States Representative District 2-Republican,1,1,N,N,N,0,0,3877,Daniel Algiers Lucas Levy,REP,Republican Party,163,217,1788,0,2168,71662,0,57,5080,#FF0000,N,1.77%,Y
+62,122,1497,1170,United State Representative District 2,3,United States Representative District 2-Republican,1,1,N,N,N,0,0,3878,Chris Porter,REP,Republican Party,513,419,5367,0,6299,71662,0,57,5080,#FF0000,N,5.15%,Y
+63,122,1497,1170,United State Representative District 2,3,United States Representative District 2-Republican,1,1,N,N,N,0,0,3879,Mike Simpson,REP,Republican Party,6574,8637,51528,0,66739,71662,0,57,5080,#FF0000,N,54.60%,Y
+64,122,1497,1170,United State Representative District 2,3,United States Representative District 2-Republican,1,1,N,N,N,0,0,3880,Bryan Smith,REP,Republican Party,3385,2732,33854,0,39971,71662,0,57,5080,#FF0000,N,32.70%,Y
+65,122,1498,1171,Idaho State Governor,4,Governor-Constitution,1,1,N,N,N,0,0,3881,Chantyrose Davison,CON,Constitution Party,15,35,287,0,337,162725,0,0,88,#FF6600,N,63.95%,Y
+66,122,1498,1171,Idaho State Governor,4,Governor-Constitution,1,1,N,N,N,0,0,3893,Write-In,CON,Constitution Party,7,20,163,0,190,132310,0,0,81,#FF6600,N,36.05%,Y
+67,122,1499,1171,Idaho State Governor,4,Governor-Democratic,1,1,N,N,N,0,0,3882,Stephen Heidt,DEM,Democratic Party,2566,6902,15418,0,24886,162725,0,36,2932,#0000FF,N,80.26%,Y
+68,122,1499,1171,Idaho State Governor,4,Governor-Democratic,1,1,N,N,N,0,0,3894,Write-Ins,DEM,Democratic Party,534,1523,4062,0,6119,321270,0,67,5427,#0000FF,N,19.74%,Y
+69,122,1500,1171,Idaho State Governor,4,Governor-Libertarian,1,1,N,N,N,0,0,3883,John Dionne Jr.,LIB,Libertarian Party,15,39,225,0,279,162725,0,1,259,#FFFF00,N,39.97%,Y
+70,122,1500,1171,Idaho State Governor,4,Governor-Libertarian,1,1,N,N,N,0,0,3884,Paul Sand,LIB,Libertarian Party,13,53,353,0,419,162725,0,1,259,#FFFF00,N,60.03%,Y
+71,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3885,Steven R Bradshaw,REP,Republican Party,297,461,4642,0,5400,162725,0,82,1487,#FF0000,N,1.94%,Y
+72,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3886,Ben Cannady,REP,Republican Party,62,83,649,0,794,162725,0,82,1487,#FF0000,N,0.29%,Y
+73,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3887,Edward R. Humphreys,REP,Republican Party,2071,2746,25917,0,30734,162725,0,82,1487,#FF0000,N,11.03%,Y
+74,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3888,Ashley Jackson,REP,Republican Party,180,308,2659,0,3147,162725,0,82,1487,#FF0000,N,1.13%,Y
+75,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3889,Brad Little,REP,Republican Party,13680,24646,109046,0,147372,162725,0,82,1487,#FF0000,N,52.91%,Y
+76,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3890,Lisa Marie,REP,Republican Party,82,86,925,0,1093,162725,0,82,1487,#FF0000,N,0.39%,Y
+77,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3891,Janice McGeachin,REP,Republican Party,5820,7832,75687,0,89339,162725,0,82,1487,#FF0000,N,32.07%,Y
+78,122,1501,1171,Idaho State Governor,4,Governor-Republican,1,1,N,N,N,0,0,3892,Cody Usabel,REP,Republican Party,50,76,550,0,676,162725,0,82,1487,#FF0000,N,0.24%,Y
+79,122,1502,1172,Idaho State Lieutenant Governor,5,Lieutenant Governor-Constitution,1,1,N,N,N,0,0,3896,"Pro-Life (A person, formerly known as Marvin Richardson)",CON,Constitution Party,17,41,312,0,370,162725,0,1,300,#FF6600,N,100.00%,Y
+80,122,1503,1172,Idaho State Lieutenant Governor,5,Lieutenant Governor-Democratic,1,1,N,N,N,0,0,3897,Terri Pickens Manweiler,DEM,Democratic Party,3180,8772,20101,0,32053,162725,0,6,3200,#0000FF,N,100.00%,Y
+81,122,1504,1172,Idaho State Lieutenant Governor,5,Lieutenant Governor-Republican,1,1,N,N,N,0,0,3898,Scott Bedke,REP,Republican Party,12833,21452,104000,0,138285,162725,0,67,10610,#FF0000,N,51.81%,Y
+82,122,1504,1172,Idaho State Lieutenant Governor,5,Lieutenant Governor-Republican,1,1,N,N,N,0,0,3899,Daniel J Gasiorowski,REP,Republican Party,1163,2112,12263,0,15538,162725,0,67,10610,#FF0000,N,5.82%,Y
+83,122,1504,1172,Idaho State Lieutenant Governor,5,Lieutenant Governor-Republican,1,1,N,N,N,0,0,3900,Priscilla Giddings,REP,Republican Party,7574,11628,93882,0,113084,162725,0,67,10610,#FF0000,N,42.37%,Y
+84,122,1505,1173,Idaho Secretary of State,6,Secretary of State-Democratic,1,1,N,N,N,0,0,3901,Shawn Keenan,DEM,Democratic Party,3136,8500,19901,0,31537,162725,0,9,3696,#0000FF,N,100.00%,Y
+85,122,1506,1173,Idaho Secretary of State,6,Secretary of State-Republican,1,1,N,N,N,0,0,3902,Phil McGrane,REP,Republican Party,10817,19038,83630,0,113485,162725,0,82,14223,#FF0000,N,43.26%,Y
+86,122,1506,1173,Idaho Secretary of State,6,Secretary of State-Republican,1,1,N,N,N,0,0,3903,Dorothy Moon,REP,Republican Party,7495,10041,90804,0,108340,162725,0,82,14223,#FF0000,N,41.30%,Y
+87,122,1506,1173,Idaho Secretary of State,6,Secretary of State-Republican,1,1,N,N,N,0,0,3904,Mary Souza,REP,Republican Party,2894,5586,32016,0,40496,162725,0,82,14223,#FF0000,N,15.44%,Y
+88,122,1507,1174,Idaho State Controller,7,State Controller-Constitution,1,1,N,N,N,0,0,3905,Miste Gardner,CON,Constitution Party,24,48,424,0,496,162725,0,1,282,#FF6600,N,100.00%,Y
+89,122,1508,1174,Idaho State Controller,7,State Controller-Democratic,1,1,N,N,N,0,0,3906,Dianna David,DEM,Democratic Party,3109,8474,19805,0,31388,162725,0,9,3956,#0000FF,N,100.00%,Y
+90,122,1509,1174,Idaho State Controller,7,State Controller-Republican,1,1,N,N,N,0,0,3907,Brandon D Woolf,REP,Republican Party,16902,26344,174189,0,217435,162725,0,27,52761,#FF0000,N,100.00%,Y
+91,122,1510,1175,Idaho State Treasurer,8,State Treasurer-Democratic,1,1,N,N,N,0,0,3908,Jill L Ellsworth,DEM,Democratic Party,3159,8568,20180,0,31907,162725,0,8,3638,#0000FF,N,100.00%,Y
+92,122,1511,1175,Idaho State Treasurer,8,State Treasurer-Republican,1,1,N,N,N,0,0,3909,Julie A. Ellsworth,REP,Republican Party,16733,25957,172581,0,215271,162725,0,21,54329,#FF0000,N,100.00%,Y
+93,122,1512,1176,Idaho State Attorney General,9,Attorney General-Democratic,1,1,N,N,N,0,0,3910,Steven Scanlin,DEM,Democratic Party,3119,8509,19737,0,31365,162725,0,3,3855,#0000FF,N,100.00%,Y
+94,122,1513,1176,Idaho State Attorney General,9,Attorney General-Republican,1,1,N,N,N,0,0,3911,Raúl R. Labrador,REP,Republican Party,9412,13107,115964,0,138483,162725,0,48,8662,#FF0000,N,51.38%,Y
+95,122,1513,1176,Idaho State Attorney General,9,Attorney General-Republican,1,1,N,N,N,0,0,3912,"Arthur (""Art"") Macomber",REP,Republican Party,2061,3116,23209,0,28386,162725,0,48,8662,#FF0000,N,10.53%,Y
+96,122,1513,1176,Idaho State Attorney General,9,Attorney General-Republican,1,1,N,N,N,0,0,3913,Lawrence Wasden,REP,Republican Party,10313,19186,73171,0,102670,162725,0,48,8662,#FF0000,N,38.09%,Y
+97,122,1514,1177,Idaho Superintendent of Public Instruction,10,Superintendent of Public Instruction-Democratic,1,1,N,N,N,0,0,3914,Terry L. Gilbert,DEM,Democratic Party,3126,8617,19865,0,31608,162725,0,6,3666,#0000FF,N,100.00%,Y
+98,122,1515,1177,Idaho Superintendent of Public Instruction,10,Superintendent of Public Instruction-Republican,1,1,N,N,N,0,0,3915,Debbie Critchfield,REP,Republican Party,8751,13603,81746,0,104100,162725,0,76,14800,#FF0000,N,39.76%,Y
+99,122,1515,1177,Idaho Superintendent of Public Instruction,10,Superintendent of Public Instruction-Republican,1,1,N,N,N,0,0,3916,Branden J. Durst,REP,Republican Party,5879,9184,72814,0,87877,162725,0,76,14800,#FF0000,N,33.56%,Y
+100,122,1515,1177,Idaho Superintendent of Public Instruction,10,Superintendent of Public Instruction-Republican,1,1,N,N,N,0,0,3917,Sherri Ybarra,REP,Republican Party,6565,11836,51440,0,69841,162725,0,76,14800,#FF0000,N,26.68%,Y
+101,122,1516,1178,Legislative District 1,11,State Senator District 1-Republican,1,1,N,N,N,0,0,3918,Scott Herndon,REP,Republican Party,246,590,6935,0,7771,12412,0,3,284,#FF0000,N,56.17%,Y
+102,122,1516,1178,Legislative District 1,11,State Senator District 1-Republican,1,1,N,N,N,0,0,3919,Jim Woodward,REP,Republican Party,258,1085,4721,0,6064,12412,0,3,284,#FF0000,N,43.83%,Y
+103,122,1517,1178,Legislative District 1,11,"State Representative District 1, Position A-Democratic",1,1,N,N,N,0,0,3920,Steve R Johnson,DEM,Democratic Party,36,305,777,0,1118,12412,0,0,188,#0000FF,N,100.00%,Y
+104,122,1518,1178,Legislative District 1,11,"State Representative District 1, Position A-Republican",1,1,N,N,N,0,0,3921,Spencer Hutchings,REP,Republican Party,126,272,3695,0,4093,12412,0,2,1197,#FF0000,N,32.51%,Y
+105,122,1518,1178,Legislative District 1,11,"State Representative District 1, Position A-Republican",1,1,N,N,N,0,0,3922,Adam Rorick,REP,Republican Party,29,62,658,0,749,12412,0,2,1197,#FF0000,N,5.95%,Y
+106,122,1518,1178,Legislative District 1,11,"State Representative District 1, Position A-Republican",1,1,N,N,N,0,0,3923,Mark Sauter,REP,Republican Party,218,1001,3597,0,4816,12412,0,2,1197,#FF0000,N,38.25%,Y
+107,122,1518,1178,Legislative District 1,11,"State Representative District 1, Position A-Republican",1,1,N,N,N,0,0,3924,Travis Thompson,REP,Republican Party,64,191,1674,0,1929,12412,0,2,1197,#FF0000,N,15.32%,Y
+108,122,1518,1178,Legislative District 1,11,"State Representative District 1, Position A-Republican",1,1,N,N,N,0,0,3925,Cynthia P Weiss,REP,Republican Party,20,65,919,0,1004,12412,0,2,1197,#FF0000,N,7.97%,Y
+109,122,1519,1178,Legislative District 1,11,"State Representative District 1, Position B-Republican",1,1,N,N,N,0,0,3926,Sage G. Dixon,REP,Republican Party,282,1140,5627,0,7049,12412,0,1,557,#FF0000,N,52.28%,Y
+110,122,1519,1178,Legislative District 1,11,"State Representative District 1, Position B-Republican",1,1,N,N,N,0,0,3927,Todd Engel,REP,Republican Party,205,480,5750,0,6435,12412,0,1,557,#FF0000,N,47.72%,Y
+111,122,1520,1179,Legislative District 2,12,State Senator District 2-Republican,1,1,N,N,N,0,0,3928,Jon Cantamessa,REP,Republican Party,19,136,1254,0,1409,1671,0,2,686,#FF0000,N,16.52%,Y
+112,122,1520,1179,Legislative District 2,12,State Senator District 2-Republican,1,1,N,N,N,0,0,3929,Phil Hart,REP,Republican Party,64,366,4443,0,4873,1671,0,2,686,#FF0000,N,57.14%,Y
+113,122,1520,1179,Legislative District 2,12,State Senator District 2-Republican,1,1,N,N,N,0,0,3930,Bill Hasz,REP,Republican Party,39,235,1972,0,2246,1671,0,2,686,#FF0000,N,26.34%,Y
+114,122,1521,1179,Legislative District 2,12,"State Representative District 2, Position A-Republican",1,1,N,N,N,0,0,3931,Heather Scott,REP,Republican Party,122,627,7244,0,7993,1671,0,0,641,#FF0000,N,100.00%,Y
+115,122,1522,1179,Legislative District 2,12,"State Representative District 2, Position B-Democratic",1,1,N,N,N,0,0,3932,Tom Stroschein,DEM,Democratic Party,10,163,950,0,1123,1671,0,0,63,#0000FF,N,100.00%,Y
+116,122,1523,1179,Legislative District 2,12,"State Representative District 2, Position B-Libertarian",1,1,N,N,N,0,0,3933,Jennifer Ann Luoma,LIB,Libertarian Party,0,1,32,0,33,1671,0,0,8,#FFFF00,N,100.00%,Y
+117,122,1524,1179,Legislative District 2,12,"State Representative District 2, Position B-Republican",1,1,N,N,N,0,0,3934,Dale Hawkins,REP,Republican Party,114,622,7031,0,7767,1671,0,1,796,#FF0000,N,100.00%,Y
+118,122,1525,1180,Legislative District 3,13,State Senator District 3-Republican,1,1,N,N,N,0,0,3935,"Doug ""Doug O"" Okuniewicz",REP,Republican Party,452,1199,7282,0,8933,0,0,0,1660,#FF0000,N,100.00%,Y
+119,122,1526,1180,Legislative District 3,13,"State Representative District 3, Position A-Republican",1,1,N,N,N,0,0,3936,Vito Barbieri,REP,Republican Party,445,1167,7134,0,8746,0,0,0,1847,#FF0000,N,100.00%,Y
+120,122,1527,1180,Legislative District 3,13,"State Representative District 3, Position B-Republican",1,1,N,N,N,0,0,3938,Jordan Redman,REP,Republican Party,402,1165,6371,0,7938,0,0,2,1075,#FF0000,N,83.42%,Y
+121,122,1527,1180,Legislative District 3,13,"State Representative District 3, Position B-Republican",1,1,N,N,N,0,0,3939,Rick Small,REP,Republican Party,84,286,1208,0,1578,0,0,2,1075,#FF0000,N,16.58%,Y
+122,122,1528,1181,Legislative District 4,14,State Senator District 4-Republican,1,1,N,N,N,0,0,3940,Tara Malek,REP,Republican Party,320,776,1762,0,2858,0,0,0,233,#FF0000,N,41.21%,Y
+123,122,1528,1181,Legislative District 4,14,State Senator District 4-Republican,1,1,N,N,N,0,0,3941,Ben Toews,REP,Republican Party,459,580,3039,0,4078,0,0,0,233,#FF0000,N,58.79%,Y
+124,122,1529,1181,Legislative District 4,14,"State Representative District 4, Position A-Democratic",1,1,N,N,N,0,0,3942,Megan Dardis-Kunz,DEM,Democratic Party,121,447,558,0,1126,0,0,0,151,#0000FF,N,100.00%,Y
+125,122,1530,1181,Legislative District 4,14,"State Representative District 4, Position A-Republican",1,1,N,N,N,0,0,3943,Jim Addis,REP,Republican Party,384,900,2062,0,3346,0,0,2,312,#FF0000,N,48.81%,Y
+126,122,1530,1181,Legislative District 4,14,"State Representative District 4, Position A-Republican",1,1,N,N,N,0,0,3944,Joe Alfieri,REP,Republican Party,395,445,2669,0,3509,0,0,2,312,#FF0000,N,51.19%,Y
+127,122,1531,1181,Legislative District 4,14,"State Representative District 4, Position B-Democratic",1,1,N,N,N,0,0,3945,Larry Bieber,DEM,Democratic Party,118,443,559,0,1120,0,0,0,157,#0000FF,N,100.00%,Y
+128,122,1532,1181,Legislative District 4,14,"State Representative District 4, Position B-Republican",1,1,N,N,N,0,0,3946,Paul Amador,REP,Republican Party,409,926,2102,0,3437,0,0,1,270,#FF0000,N,49.83%,Y
+129,122,1532,1181,Legislative District 4,14,"State Representative District 4, Position B-Republican",1,1,N,N,N,0,0,3947,Elaine Price,REP,Republican Party,370,429,2662,0,3461,0,0,1,270,#FF0000,N,50.17%,Y
+130,122,1533,1182,Legislative District 5,15,State Senator District 5-Republican,1,1,N,N,N,0,0,3948,Carl Bjerke,REP,Republican Party,285,481,4348,0,5114,0,0,1,535,#FF0000,N,62.20%,Y
+131,122,1533,1182,Legislative District 5,15,State Senator District 5-Republican,1,1,N,N,N,0,0,3949,Peter Riggs,REP,Republican Party,160,568,2380,0,3108,0,0,1,535,#FF0000,N,37.80%,Y
+132,122,1534,1182,Legislative District 5,15,"State Representative District 5, Position A-Democratic",1,1,N,N,N,0,0,3950,Kristy Reed Johnson,DEM,Democratic Party,24,278,497,0,799,0,0,0,82,#0000FF,N,100.00%,Y
+133,122,1535,1182,Legislative District 5,15,"State Representative District 5, Position A-Republican",1,1,N,N,N,0,0,3951,Ron Mendive,REP,Republican Party,361,732,5608,0,6701,0,0,0,728,#FF0000,N,83.45%,Y
+134,122,1535,1182,Legislative District 5,15,"State Representative District 5, Position A-Republican",1,1,N,N,N,0,0,3952,Cheri Zao,REP,Republican Party,77,308,944,0,1329,0,0,0,728,#FF0000,N,16.55%,Y
+135,122,1536,1182,Legislative District 5,15,"State Representative District 5, Position B-Democratic",1,1,N,N,N,0,0,3953,Teresa Borrenpohl,DEM,Democratic Party,24,279,493,0,796,0,0,0,85,#0000FF,N,100.00%,Y
+136,122,1537,1182,Legislative District 5,15,"State Representative District 5, Position B-Republican",1,1,N,N,N,0,0,3954,Tony Wisniewski,REP,Republican Party,387,845,6150,0,7382,0,0,0,1376,#FF0000,N,100.00%,Y
+137,122,1538,1183,Legislative District 6,16,State Senator District 6-Constitution ,1,1,N,N,N,0,0,3955,James Hartley,CON,Constitution Party,0,11,6,0,17,0,0,0,15,#FF6600,N,100.00%,Y
+138,122,1539,1183,Legislative District 6,16,State Senator District 6-Democratic,1,1,N,N,N,0,0,3956,David Nelson,DEM,Democratic Party,212,1009,606,0,1827,0,0,0,105,#0000FF,N,100.00%,Y
+139,122,1540,1183,Legislative District 6,16,State Senator District 6-Republican,1,1,N,N,N,0,0,3957,Robert Blair,REP,Republican Party,113,963,1204,0,2280,0,0,5,341,#FF0000,N,35.25%,Y
+140,122,1540,1183,Legislative District 6,16,State Senator District 6-Republican,1,1,N,N,N,0,0,3958,Dan Foreman,REP,Republican Party,126,1733,933,0,2792,0,0,5,341,#FF0000,N,43.17%,Y
+141,122,1540,1183,Legislative District 6,16,State Senator District 6-Republican,1,1,N,N,N,0,0,3959,Jen Seegmiller,REP,Republican Party,126,870,400,0,1396,0,0,5,341,#FF0000,N,21.58%,Y
+142,122,1541,1183,Legislative District 6,16,"State Representative District 6, Position A-Democratic",1,1,N,N,N,0,0,3960,Jamal Kingsley Lyksett,DEM,Democratic Party,201,949,563,0,1713,0,0,0,215,#0000FF,N,100.00%,Y
+143,122,1542,1183,Legislative District 6,16,"State Representative District 6, Position A-Republican",1,1,N,N,N,0,0,3961,Claudia Dalby,REP,Republican Party,110,1512,761,0,2383,0,0,5,689,#FF0000,N,38.86%,Y
+144,122,1542,1183,Legislative District 6,16,"State Representative District 6, Position A-Republican",1,1,N,N,N,0,0,3962,Lori McCann,REP,Republican Party,223,1715,1811,0,3749,0,0,5,689,#FF0000,N,61.14%,Y
+145,122,1543,1183,Legislative District 6,16,"State Representative District 6, Position B-Democratic",1,1,N,N,N,0,0,3963,Tim Gresback,DEM,Democratic Party,206,970,577,0,1753,0,0,0,178,#0000FF,N,100.00%,Y
+146,122,1544,1183,Legislative District 6,16,"State Representative District 6, Position B-Republican",1,1,N,N,N,0,0,3964,Brandon Mitchell,REP,Republican Party,245,2797,2118,0,5160,0,0,0,1570,#FF0000,N,100.00%,Y
+147,122,1545,1184,Legislative District 7,17,State Senator District 7-Republican,1,1,N,N,N,0,0,3965,Cindy Carlson,REP,Republican Party,0,0,4273,0,4273,0,0,3,151,#FF0000,N,48.72%,Y
+148,122,1545,1184,Legislative District 7,17,State Senator District 7-Republican,1,1,N,N,N,0,0,3966,Carl Crabtree,REP,Republican Party,0,0,3522,0,3522,0,0,3,151,#FF0000,N,40.16%,Y
+149,122,1545,1184,Legislative District 7,17,State Senator District 7-Republican,1,1,N,N,N,0,0,3967,Heather Rogers,REP,Republican Party,0,0,439,0,439,0,0,3,151,#FF0000,N,5.01%,Y
+150,122,1545,1184,Legislative District 7,17,State Senator District 7-Republican,1,1,N,N,N,0,0,3968,Keith Stuffle,REP,Republican Party,0,0,537,0,537,0,0,3,151,#FF0000,N,6.12%,Y
+151,122,1546,1184,Legislative District 7,17,"State Representative District 7, Position A-Republican",1,1,N,N,N,0,0,3969,Lynn Guyer,REP,Republican Party,0,0,2457,0,2457,0,0,0,145,#FF0000,N,28.66%,Y
+152,122,1546,1184,Legislative District 7,17,"State Representative District 7, Position A-Republican",1,1,N,N,N,0,0,3970,Mike Kingsley,REP,Republican Party,0,0,6117,0,6117,0,0,0,145,#FF0000,N,71.34%,Y
+153,122,1547,1184,Legislative District 7,17,"State Representative District 7, Position B-Republican",1,1,N,N,N,0,0,3971,Charlie Shepherd,REP,Republican Party,0,0,6878,0,6878,0,0,0,799,#FF0000,N,100.00%,Y
+154,122,1548,1185,Legislative District 8,18,State Senator District 8-Republican,1,1,N,N,N,0,0,3972,Gary E Freeman,REP,Republican Party,0,0,1240,0,1240,0,0,0,0,#FF0000,N,14.31%,Y
+155,122,1548,1185,Legislative District 8,18,State Senator District 8-Republican,1,1,N,N,N,0,0,3973,Terry Gestrin,REP,Republican Party,0,0,2389,0,2389,0,0,0,0,#FF0000,N,27.57%,Y
+156,122,1548,1185,Legislative District 8,18,State Senator District 8-Republican,1,1,N,N,N,0,0,3974,Jon Krueger,REP,Republican Party,0,0,2231,0,2231,0,0,0,0,#FF0000,N,25.75%,Y
+157,122,1548,1185,Legislative District 8,18,State Senator District 8-Republican,1,1,N,N,N,0,0,3975,Geoff Schroeder,REP,Republican Party,0,0,2805,0,2805,0,0,0,0,#FF0000,N,32.37%,Y
+158,122,1549,1185,Legislative District 8,18,"State Representative District 8, Position A-Constitution",1,1,N,N,N,0,0,3976,Steven W Feil,CON,Constitution Party,0,0,18,0,18,0,0,0,0,#FF6600,N,100.00%,Y
+159,122,1550,1185,Legislative District 8,18,"State Representative District 8, Position A-Republican",1,1,N,N,N,0,0,3977,Rob Beiswenger,REP,Republican Party,0,0,4122,0,4122,0,0,0,0,#FF0000,N,46.64%,Y
+160,122,1550,1185,Legislative District 8,18,"State Representative District 8, Position A-Republican",1,1,N,N,N,0,0,3978,"Matthew ""Matt"" Bundy",REP,Republican Party,0,0,4716,0,4716,0,0,0,0,#FF0000,N,53.36%,Y
+161,122,1551,1185,Legislative District 8,18,"State Representative District 8, Position B-Constitution",1,1,N,N,N,0,0,3979,Tony Ullrich,CON,Constitution Party,0,0,22,0,22,0,0,0,0,#FF6600,N,100.00%,Y
+162,122,1552,1185,Legislative District 8,18,"State Representative District 8, Position B-Republican",1,1,N,N,N,0,0,3980,Megan C. Blanksma,REP,Republican Party,0,0,6959,0,6959,0,0,0,0,#FF0000,N,100.00%,Y
+163,122,1553,1186,Legislative District 9,19,State Senator District 9-Republican,1,1,N,N,N,0,0,3981,Kayla Dunn,REP,Republican Party,21,83,928,0,1032,3329,0,4,224,#FF0000,N,11.11%,Y
+164,122,1553,1186,Legislative District 9,19,State Senator District 9-Republican,1,1,N,N,N,0,0,3982,Abby Lee,REP,Republican Party,68,302,2873,0,3243,3329,0,4,224,#FF0000,N,34.90%,Y
+165,122,1553,1186,Legislative District 9,19,State Senator District 9-Republican,1,1,N,N,N,0,0,3983,Jordan Marques,REP,Republican Party,65,164,2523,0,2752,3329,0,4,224,#FF0000,N,29.62%,Y
+166,122,1553,1186,Legislative District 9,19,State Senator District 9-Republican,1,1,N,N,N,0,0,3984,Jim Rice,REP,Republican Party,81,197,1987,0,2265,3329,0,4,224,#FF0000,N,24.38%,Y
+167,122,1554,1186,Legislative District 9,19,"State Representative District 9, Position A-Republican",1,1,N,N,N,0,0,3985,Jacyn Gallagher,REP,Republican Party,106,305,4231,0,4642,3329,0,2,391,#FF0000,N,51.10%,Y
+168,122,1554,1186,Legislative District 9,19,"State Representative District 9, Position A-Republican",1,1,N,N,N,0,0,3986,Ryan Kerby,REP,Republican Party,115,432,3895,0,4442,3329,0,2,391,#FF0000,N,48.90%,Y
+169,122,1555,1186,Legislative District 9,19,"State Representative District 9, Position B-Republican",1,1,N,N,N,0,0,3987,Judy Boyle,REP,Republican Party,109,284,4243,0,4636,3329,0,0,209,#FF0000,N,50.03%,Y
+170,122,1555,1186,Legislative District 9,19,"State Representative District 9, Position B-Republican",1,1,N,N,N,0,0,3988,Scott Syme,REP,Republican Party,123,465,4042,0,4630,3329,0,0,209,#FF0000,N,49.97%,Y
+171,122,1556,1187,Legislative District 10,20,State Senator District 10-Democratic,1,1,N,N,N,0,0,3989,Bob Solomon,DEM,Democratic Party,57,248,289,0,594,10576,0,1,33,#0000FF,N,100.00%,Y
+172,122,1557,1187,Legislative District 10,20,State Senator District 10-Republican,1,1,N,N,N,0,0,3990,Scott R Brock,REP,Republican Party,427,753,2563,0,3743,10576,0,5,708,#FF0000,N,41.57%,Y
+173,122,1557,1187,Legislative District 10,20,State Senator District 10-Republican,1,1,N,N,N,0,0,3991,Tammy Nichols,REP,Republican Party,495,742,4025,0,5262,10576,0,5,708,#FF0000,N,58.43%,Y
+174,122,1558,1187,Legislative District 10,20,"State Representative District 10, Position A-Republican",1,1,N,N,N,0,0,3992,Rachel Hazelip,REP,Republican Party,364,624,2899,0,3887,10576,0,4,872,#FF0000,N,43.95%,Y
+175,122,1558,1187,Legislative District 10,20,"State Representative District 10, Position A-Republican",1,1,N,N,N,0,0,3993,Mike Moyle,REP,Republican Party,551,868,3538,0,4957,10576,0,4,872,#FF0000,N,56.05%,Y
+176,122,1559,1187,Legislative District 10,20,"State Representative District 10, Position B-Republican",1,1,N,N,N,0,0,3994,Beverlee Furner,REP,Republican Party,142,330,855,0,1327,10576,0,6,1375,#FF0000,N,15.92%,Y
+177,122,1559,1187,Legislative District 10,20,"State Representative District 10, Position B-Republican",1,1,N,N,N,0,0,3995,Coral Kenagy,REP,Republican Party,72,134,600,0,806,10576,0,6,1375,#FF0000,N,9.67%,Y
+178,122,1559,1187,Legislative District 10,20,"State Representative District 10, Position B-Republican",1,1,N,N,N,0,0,3996,Bruce D. Skaug,REP,Republican Party,681,984,4535,0,6200,10576,0,6,1375,#FF0000,N,74.40%,Y
+179,122,1560,1188,Legislative District 11,21,State Senator District 11-Constitution,1,1,N,N,N,0,0,3997,Kurtis Berger,CON,Constitution Party,1,0,14,0,15,4394,0,0,1,#FF6600,N,100.00%,Y
+180,122,1561,1188,Legislative District 11,21,State Senator District 11-Democratic,1,1,N,N,N,0,0,4002,Toni Ferro,DEM,Democratic Party,73,237,226,0,536,4394,0,0,18,#0000FF,N,100.00%,Y
+181,122,1562,1188,Legislative District 11,21,State Senator District 11-Republican,1,1,N,N,N,0,0,3998,Greg Chaney,REP,Republican Party,339,409,894,0,1642,4394,0,0,169,#FF0000,N,46.25%,Y
+182,122,1562,1188,Legislative District 11,21,State Senator District 11-Republican,1,1,N,N,N,0,0,3999,Chris Trakel,REP,Republican Party,328,315,1265,0,1908,4394,0,0,169,#FF0000,N,53.75%,Y
+183,122,1563,1188,Legislative District 11,21,"State Representative District 11, Position A-Democratic",1,1,N,N,N,0,0,4000,Robert Scoville,DEM,Democratic Party,69,233,221,0,523,4394,0,1,30,#0000FF,N,100.00%,Y
+184,122,1564,1188,Legislative District 11,21,"State Representative District 11, Position A-Republican",1,1,N,N,N,0,0,4001,Julie K Yamamoto,REP,Republican Party,609,609,1895,0,3113,4394,0,0,571,#FF0000,N,100.00%,Y
+185,122,1565,1188,Legislative District 11,21,"State Representative District 11, Position B-Democratic",1,1,N,N,N,0,0,4003,Marisela Pesina,DEM,Democratic Party,72,233,220,0,525,4394,0,0,25,#0000FF,N,100.00%,Y
+186,122,1566,1188,Legislative District 11,21,"State Representative District 11, Position B-Republican",1,1,N,N,N,0,0,4004,Chris Allgood,REP,Republican Party,290,355,877,0,1522,4394,0,1,302,#FF0000,N,44.62%,Y
+187,122,1566,1188,Legislative District 11,21,"State Representative District 11, Position B-Republican",1,1,N,N,N,0,0,4005,Kent A. Marmon,REP,Republican Party,206,247,609,0,1062,4394,0,1,302,#FF0000,N,31.13%,Y
+188,122,1566,1188,Legislative District 11,21,"State Representative District 11, Position B-Republican",1,1,N,N,N,0,0,4006,Mike Miller,REP,Republican Party,148,111,568,0,827,4394,0,1,302,#FF0000,N,24.25%,Y
+189,122,1567,1189,Legislative District 12,22,State Senator District 12-Republican,1,1,N,N,N,0,0,4007,Ben Adams,REP,Republican Party,624,816,2972,0,4412,6829,0,0,659,#FF0000,N,81.69%,Y
+190,122,1567,1189,Legislative District 12,22,State Senator District 12-Republican,1,1,N,N,N,0,0,4008,Thomas Netzley,REP,Republican Party,120,194,675,0,989,6829,0,0,659,#FF0000,N,18.31%,Y
+191,122,1568,1189,Legislative District 12,22,State Representative District 12-Position A-Republican,1,1,N,N,N,0,0,4009,Jeff Cornilles,REP,Republican Party,306,442,1249,0,1997,6829,0,3,409,#FF0000,N,35.24%,Y
+192,122,1568,1189,Legislative District 12,22,State Representative District 12-Position A-Republican,1,1,N,N,N,0,0,4010,Sebastian Griffin,REP,Republican Party,233,327,1187,0,1747,6829,0,3,409,#FF0000,N,30.83%,Y
+193,122,1568,1189,Legislative District 12,22,State Representative District 12-Position A-Republican,1,1,N,N,N,0,0,4011,Machele Hamilton,REP,Republican Party,234,308,1381,0,1923,6829,0,3,409,#FF0000,N,33.93%,Y
+194,122,1569,1189,Legislative District 12,22,"State Representative District 12, Position B-Republican",1,1,N,N,N,0,0,4012,Jaron Crane,REP,Republican Party,556,720,2790,0,4066,6829,0,2,697,#FF0000,N,75.75%,Y
+195,122,1569,1189,Legislative District 12,22,"State Representative District 12, Position B-Republican",1,1,N,N,N,0,0,4013,Jana M. Warner,REP,Republican Party,184,304,814,0,1302,6829,0,2,697,#FF0000,N,24.25%,Y
+196,122,1570,1190,Legislative District 13,23,State Senator District 13-Republican,1,1,N,N,N,0,0,4014,Jeff C Agenbroad,REP,Republican Party,238,547,1545,0,2330,6723,0,4,462,#FF0000,N,42.43%,Y
+197,122,1570,1190,Legislative District 13,23,State Senator District 13-Republican,1,1,N,N,N,0,0,4015,Brian Lenney,REP,Republican Party,282,434,2446,0,3162,6723,0,4,462,#FF0000,N,57.57%,Y
+198,122,1571,1190,Legislative District 13,23,"State Representative District 13, Position A-Constitution",1,1,N,N,N,0,0,4016,Petre Danaila,CON,Constitution Party,0,3,9,0,12,6723,0,0,1,#FF6600,N,100.00%,Y
+199,122,1572,1190,Legislative District 13,23,"State Representative District 13, Position A-Republican",1,1,N,N,N,0,0,4017,Brent J. Crane,REP,Republican Party,479,788,3672,0,4939,6723,0,3,972,#FF0000,N,100.00%,Y
+200,122,1573,1190,Legislative District 13,23,"State Representative District 13, Position B-Republican",1,1,N,N,N,0,0,4018,Tara Barling,REP,Republican Party,94,185,711,0,990,6723,0,3,642,#FF0000,N,18.62%,Y
+201,122,1573,1190,Legislative District 13,23,"State Representative District 13, Position B-Republican",1,1,N,N,N,0,0,4020,Roger Hunt,REP,Republican Party,198,240,1414,0,1852,6723,0,3,642,#FF0000,N,34.83%,Y
+202,122,1573,1190,Legislative District 13,23,"State Representative District 13, Position B-Republican",1,1,N,N,N,0,0,4021,Kenny Wroten,REP,Republican Party,217,538,1720,0,2475,6723,0,3,642,#FF0000,N,46.55%,Y
+203,122,1574,1191,Legislative District 14,24,State Senator District 14-Constitution,1,1,N,N,N,0,0,4022,Kirsten Faith Richardson,CON,Constitution Party,1,1,16,0,18,10498,0,0,12,#FF6600,N,100.00%,Y
+204,122,1575,1191,Legislative District 14,24,State Senator District 14-Libertarian,1,1,N,N,N,0,0,4023,Robert Imhoff,LIB,Libertarian Party,1,1,26,0,28,10498,0,0,13,#FFFF00,N,100.00%,Y
+205,122,1576,1191,Legislative District 14,24,State Senator District 14-Republican,1,1,N,N,N,0,0,4024,Katie Donahue,REP,Republican Party,170,216,1123,0,1509,10498,0,8,1213,#FF0000,N,11.94%,Y
+206,122,1576,1191,Legislative District 14,24,State Senator District 14-Republican,1,1,N,N,N,0,0,4025,C. Scott Grow,REP,Republican Party,645,1069,4324,0,6038,10498,0,8,1213,#FF0000,N,47.77%,Y
+207,122,1576,1191,Legislative District 14,24,State Senator District 14-Republican,1,1,N,N,N,0,0,4026,Steven Thayn,REP,Republican Party,597,537,3958,0,5092,10498,0,8,1213,#FF0000,N,40.29%,Y
+208,122,1577,1191,Legislative District 14,24,"State Representative District 14, Position A-Democratic",1,1,N,N,N,0,0,4027,Crystal Ivie,DEM,Democratic Party,119,291,432,0,842,10498,0,0,143,#0000FF,N,100.00%,Y
+209,122,1578,1191,Legislative District 14,24,"State Representative District 14, Position A-Republican",1,1,N,N,N,0,0,4028,Ted Hill,REP,Republican Party,609,842,3770,0,5221,10498,0,5,1552,#FF0000,N,42.43%,Y
+210,122,1578,1191,Legislative District 14,24,"State Representative District 14, Position A-Republican",1,1,N,N,N,0,0,4029,Caleb Hoobery,REP,Republican Party,228,102,917,0,1247,10498,0,5,1552,#FF0000,N,10.13%,Y
+211,122,1578,1191,Legislative District 14,24,"State Representative District 14, Position A-Republican",1,1,N,N,N,0,0,4030,Tracey L. Koellisch,REP,Republican Party,295,394,3013,0,3702,10498,0,5,1552,#FF0000,N,30.09%,Y
+212,122,1578,1191,Legislative District 14,24,"State Representative District 14, Position A-Republican",1,1,N,N,N,0,0,4031,Mike Olsen,REP,Republican Party,242,422,1470,0,2134,10498,0,5,1552,#FF0000,N,17.34%,Y
+213,122,1579,1191,Legislative District 14,24,"State Representative District 14, Position B-Democratic",1,1,N,N,N,0,0,4032,Shelley Brock,DEM,Democratic Party,123,297,442,0,862,10498,0,0,128,#0000FF,N,100.00%,Y
+214,122,1580,1191,Legislative District 14,24,"State Representative District 14, Position B-Republican",1,1,N,N,N,0,0,4033,Gayann DeMordaunt,REP,Republican Party,586,869,3969,0,5424,10498,0,6,1670,#FF0000,N,44.57%,Y
+215,122,1580,1191,Legislative District 14,24,"State Representative District 14, Position B-Republican",1,1,N,N,N,0,0,4034,Josh Tanner,REP,Republican Party,759,866,5120,0,6745,10498,0,6,1670,#FF0000,N,55.43%,Y
+216,122,1581,1192,Legislative District 15,25,State Senator District 15-Constitution,1,1,N,N,N,0,0,4035,Sarah A. Clendenon,CON,Constitution Party,0,0,10,0,10,9350,0,0,4,#FF6600,N,100.00%,Y
+217,122,1582,1192,Legislative District 15,25,State Senator District 15-Democratic,1,1,N,N,N,0,0,4036,Rick Just,DEM,Democratic Party,110,617,771,0,1498,9350,0,0,159,#0000FF,N,100.00%,Y
+218,122,1583,1192,Legislative District 15,25,State Senator District 15-Republican,1,1,N,N,N,0,0,4037,Codi Galloway,REP,Republican Party,275,615,2778,0,3668,9350,0,4,518,#FF0000,N,53.01%,Y
+219,122,1583,1192,Legislative District 15,25,State Senator District 15-Republican,1,1,N,N,N,0,0,4038,Dorothy Greenzang,REP,Republican Party,28,109,261,0,398,9350,0,4,518,#FF0000,N,5.75%,Y
+220,122,1583,1192,Legislative District 15,25,State Senator District 15-Republican,1,1,N,N,N,0,0,4039,Fred S. Martin,REP,Republican Party,275,866,1712,0,2853,9350,0,4,518,#FF0000,N,41.23%,Y
+221,122,1584,1192,Legislative District 15,25,"State Representative District 15, Position A-Democratic",1,1,N,N,N,0,0,4040,Steve Berch,DEM,Democratic Party,112,639,792,0,1543,9350,0,1,112,#0000FF,N,100.00%,Y
+222,122,1585,1192,Legislative District 15,25,"State Representative District 15, Position A-Republican",1,1,N,N,N,0,0,4041,Steve Keyser,REP,Republican Party,431,1104,3707,0,5242,9350,0,2,2165,#FF0000,N,100.00%,Y
+223,122,1586,1192,Legislative District 15,25,"State Representative District 15, Position B-Democratic",1,1,N,N,N,0,0,4042,Jeff Nafsinger,DEM,Democratic Party,107,595,747,0,1449,9350,0,1,209,#0000FF,N,100.00%,Y
+224,122,1587,1192,Legislative District 15,25,"State Representative District 15, Position B-Republican",1,1,N,N,N,0,0,4043,Dori Healey,REP,Republican Party,424,1109,3661,0,5194,9350,0,1,2225,#FF0000,N,100.00%,Y
+225,122,1588,1193,Legislative District 16,26,State Senator District 16-Democratic,1,1,N,N,N,0,0,4044,Ali Rabe,DEM,Democratic Party,157,516,1142,0,1815,8688,0,0,216,#0000FF,N,100.00%,Y
+226,122,1589,1193,Legislative District 16,26,State Senator District 16-Republican,1,1,N,N,N,0,0,4045,Dennis Mansfield,REP,Republican Party,304,706,2872,0,3882,8688,0,2,2427,#FF0000,N,100.00%,Y
+227,122,1590,1193,Legislative District 16,26,"State Representative District 16, Position A-Democratic",1,1,N,N,N,0,0,4046,Soñia Galaviz,DEM,Democratic Party,154,505,1144,0,1803,8688,0,2,228,#0000FF,N,100.00%,Y
+228,122,1591,1193,Legislative District 16,26,"State Representative District 16, Position A-Republican",1,1,N,N,N,0,0,4047,Mark A Montoya,REP,Republican Party,318,716,2821,0,3855,8688,0,0,2499,#FF0000,N,100.00%,Y
+229,122,1592,1193,Legislative District 16,26,"State Representative District 16, Position B-Democratic",1,1,N,N,N,0,0,4048,Colin Nash,DEM,Democratic Party,159,518,1154,0,1831,8688,0,0,200,#0000FF,N,100.00%,Y
+230,122,1593,1193,Legislative District 16,26,"State Representative District 16, Position B-Republican",1,1,N,N,N,0,0,4049,Jackie Davidson,REP,Republican Party,180,474,1794,0,2448,8688,0,4,1849,#FF0000,N,54.69%,Y
+231,122,1593,1193,Legislative District 16,26,"State Representative District 16, Position B-Republican",1,1,N,N,N,0,0,4050,Richard Shurtleff,REP,Republican Party,193,407,1428,0,2028,8688,0,4,1849,#FF0000,N,45.31%,Y
+232,122,1594,1194,Legislative District 17,27,State Senator District 17-Democratic,1,1,N,N,N,0,0,4051,Carrie Semmelroth,DEM,Democratic Party,117,455,1132,0,1704,7952,0,0,245,#0000FF,N,100.00%,Y
+233,122,1595,1194,Legislative District 17,27,State Senator District 17-Republican,1,1,N,N,N,0,0,4052,Benjamin Donovan Chafetz,REP,Republican Party,302,622,2625,0,3549,7952,0,0,2188,#FF0000,N,100.00%,Y
+234,122,1596,1194,Legislative District 17,27,"State Representative District 17, Position A-Democratic",1,1,N,N,N,0,0,4053,John Gannon,DEM,Democratic Party,118,463,1192,0,1773,7952,0,0,176,#0000FF,N,100.00%,Y
+235,122,1597,1194,Legislative District 17,27,"State Representative District 17, Position A-Republican",1,1,N,N,N,0,0,4054,April Larson,REP,Republican Party,311,630,2615,0,3556,7952,0,1,2189,#FF0000,N,100.00%,Y
+236,122,1598,1194,Legislative District 17,27,"State Representative District 17, Position B-Democratic",1,1,N,N,N,0,0,4055,Sue Chew,DEM,Democratic Party,118,470,1210,0,1798,7952,0,0,148,#0000FF,N,100.00%,Y
+237,122,1599,1194,Legislative District 17,27,"State Representative District 17, Position B-Republican",1,1,N,N,N,0,0,4056,Mary Ellen Nourse,REP,Republican Party,316,630,2617,0,3563,7952,0,0,2179,#FF0000,N,100.00%,Y
+238,122,1600,1195,Legislative District 18,28,State Senator District 18-Democratic,1,1,N,N,N,0,0,4057,Janie Ward-Engelking,DEM,Democratic Party,106,589,1188,0,1883,8579,0,0,141,#0000FF,N,100.00%,Y
+239,122,1601,1195,Legislative District 18,28,State Senator District 18-Republican,1,1,N,N,N,0,0,4058,Dan Bridges,REP,Republican Party,301,746,2659,0,3706,8579,0,2,2597,#FF0000,N,100.00%,Y
+240,122,1602,1195,Legislative District 18,28,"State Representative District 18, Position A-Democratic",1,1,N,N,N,0,0,4059,Ilana Rubel,DEM,Democratic Party,106,584,1180,0,1870,8579,0,0,152,#0000FF,N,100.00%,Y
+241,122,1603,1195,Legislative District 18,28,"State Representative District 18, Position A-Republican",1,1,N,N,N,0,0,4060,MaryKate Johnson,REP,Republican Party,297,734,2591,0,3622,8579,0,0,2680,#FF0000,N,100.00%,Y
+242,122,1604,1195,Legislative District 18,28,"State Representative District 18, Position B-Democratic",1,1,N,N,N,0,0,4061,Brooke Green,DEM,Democratic Party,104,574,1141,0,1819,8579,0,1,204,#0000FF,N,100.00%,Y
+243,122,1605,1195,Legislative District 18,28,"State Representative District 18, Position B-Republican",1,1,N,N,N,0,0,4062,Megan Conrad Landen,REP,Republican Party,295,733,2617,0,3645,8579,0,1,2662,#FF0000,N,100.00%,Y
+244,122,1606,1196,Legislative District 19,29,State Senator District 19-Democratic,1,1,N,N,N,0,0,4063,Melissa Wintrow,DEM,Democratic Party,242,703,1801,0,2746,12354,0,1,227,#0000FF,N,100.00%,Y
+245,122,1607,1196,Legislative District 19,29,State Senator District 19-Republican,1,1,N,N,N,0,0,4064,Blair Moss,REP,Republican Party,457,925,3377,0,4759,12354,0,0,4247,#FF0000,N,100.00%,Y
+246,122,1608,1196,Legislative District 19,29,"State Representative District 19, Position A-Democratic",1,1,N,N,N,0,0,4065,Lauren Necochea,DEM,Democratic Party,236,698,1783,0,2717,12354,0,0,259,#0000FF,N,100.00%,Y
+247,122,1609,1196,Legislative District 19,29,"State Representative District 19, Position A-Republican",1,1,N,N,N,0,0,4066,Melissa J. Christian,REP,Republican Party,455,909,3337,0,4701,12354,0,1,4316,#FF0000,N,100.00%,Y
+248,122,1610,1196,Legislative District 19,29,"State Representative District 19, Position B-Democratic",1,1,N,N,N,0,0,4067,Chris Mathias,DEM,Democratic Party,235,696,1772,0,2703,12354,0,1,272,#0000FF,N,100.00%,Y
+249,122,1611,1196,Legislative District 19,29,"State Representative District 19, Position B-Republican",1,1,N,N,N,0,0,4068,James Faasau,REP,Republican Party,448,897,3313,0,4658,12354,0,3,4347,#FF0000,N,100.00%,Y
+250,122,1612,1197,Legislative District 20,30,State Senator District 20-Republican,1,1,N,N,N,0,0,4069,Rosa Martinez,REP,Republican Party,361,528,2869,0,3758,9966,0,4,633,#FF0000,N,46.08%,Y
+251,122,1612,1197,Legislative District 20,30,State Senator District 20-Republican,1,1,N,N,N,0,0,4070,Chuck Winder,REP,Republican Party,530,1093,2774,0,4397,9966,0,4,633,#FF0000,N,53.92%,Y
+252,122,1613,1197,Legislative District 20,30,"State Representative District 20, Position A-Republican",1,1,N,N,N,0,0,4071,Joe Palmer,REP,Republican Party,577,1026,3208,0,4811,9966,0,6,1042,#FF0000,N,62.26%,Y
+253,122,1613,1197,Legislative District 20,30,"State Representative District 20, Position A-Republican",1,1,N,N,N,0,0,4072,Gloria Urwin,REP,Republican Party,289,495,2132,0,2916,9966,0,6,1042,#FF0000,N,37.74%,Y
+254,122,1614,1197,Legislative District 20,30,"State Representative District 20, Position B-Republican",1,1,N,N,N,0,0,4073,James D Holtzclaw,REP,Republican Party,504,1037,2949,0,4490,9966,0,4,1048,#FF0000,N,58.06%,Y
+255,122,1614,1197,Legislative District 20,30,"State Representative District 20, Position B-Republican",1,1,N,N,N,0,0,4074,Mike Hon,REP,Republican Party,349,484,2410,0,3243,9966,0,4,1048,#FF0000,N,41.94%,Y
+256,122,1615,1198,Legislative District 21,31,State Senator District 21-Constitution,1,1,N,N,N,0,0,4075,Monica McKinley,CON,Constitution Party,1,0,9,0,10,9476,0,0,8,#FF6600,N,100.00%,Y
+257,122,1616,1198,Legislative District 21,31,State Senator District 21-Republican,1,1,N,N,N,0,0,4076,Treg A. Bernt,REP,Republican Party,650,1000,2817,0,4467,9476,0,4,921,#FF0000,N,61.27%,Y
+258,122,1616,1198,Legislative District 21,31,State Senator District 21-Republican,1,1,N,N,N,0,0,4077,Thad Butterworth,REP,Republican Party,370,327,2127,0,2824,9476,0,4,921,#FF0000,N,38.73%,Y
+259,122,1617,1198,Legislative District 21,31,"State Representative District 21, Position A-Constitution",1,1,N,N,N,0,0,4078,Daniel Weston,CON,Constitution Party,1,0,5,0,6,9476,0,0,13,#FF6600,N,100.00%,Y
+260,122,1618,1198,Legislative District 21,31,"State Representative District 21, Position A-Democratic",1,1,N,N,N,0,0,4079,Josi Christensen,DEM,Democratic Party,109,317,463,0,889,9476,0,0,98,#0000FF,N,100.00%,Y
+261,122,1619,1198,Legislative District 21,31,"State Representative District 21, Position A-Libertarian",1,1,N,N,N,0,0,4080,Mike Long,LIB,Libertarian Party,2,4,23,0,29,9476,0,0,16,#FFFF00,N,100.00%,Y
+262,122,1620,1198,Legislative District 21,31,"State Representative District 21, Position A-Republican",1,1,N,N,N,0,0,4081,Dom Gelsomino,REP,Republican Party,106,330,627,0,1063,9476,0,2,813,#FF0000,N,14.36%,Y
+263,122,1620,1198,Legislative District 21,31,"State Representative District 21, Position A-Republican",1,1,N,N,N,0,0,4082,James Petzke,REP,Republican Party,480,556,1843,0,2879,9476,0,2,813,#FF0000,N,38.88%,Y
+264,122,1620,1198,Legislative District 21,31,"State Representative District 21, Position A-Republican",1,1,N,N,N,0,0,4083,Tara Pugmire,REP,Republican Party,336,375,2106,0,2817,9476,0,2,813,#FF0000,N,38.05%,Y
+265,122,1620,1198,Legislative District 21,31,"State Representative District 21, Position A-Republican",1,1,N,N,N,0,0,4084,Tyler Ricks,REP,Republican Party,97,71,477,0,645,9476,0,2,813,#FF0000,N,8.71%,Y
+266,122,1621,1198,Legislative District 21,31,"State Representative District 21, Position B-Republican",1,1,N,N,N,0,0,4085,Brandon Dybdal,REP,Republican Party,190,171,1122,0,1483,9476,0,7,1094,#FF0000,N,20.86%,Y
+267,122,1621,1198,Legislative District 21,31,"State Representative District 21, Position B-Republican",1,1,N,N,N,0,0,4086,Jeff Ehlers,REP,Republican Party,539,775,2277,0,3591,9476,0,7,1094,#FF0000,N,50.51%,Y
+268,122,1621,1198,Legislative District 21,31,"State Representative District 21, Position B-Republican",1,1,N,N,N,0,0,4087,Caleb Pirc,REP,Republican Party,248,324,1463,0,2035,9476,0,7,1094,#FF0000,N,28.63%,Y
+269,122,1622,1199,Legislative District 22,32,State Senator District 22-Constitution,1,1,N,N,N,0,0,4088,Brendan J. Gomez,CON,Constitution Party,0,2,7,0,9,9724,0,0,11,#FF6600,N,100.00%,Y
+270,122,1623,1199,Legislative District 22,32,State Senator District 22-Democratic,1,1,N,N,N,0,0,4089,Pat Soulliere,DEM,Democratic Party,62,383,560,0,1005,9724,0,0,131,#0000FF,N,100.00%,Y
+271,122,1624,1199,Legislative District 22,32,State Senator District 22-Republican,1,1,N,N,N,0,0,4090,Lori Den Hartog,REP,Republican Party,463,1046,4373,0,5882,9724,0,1,2379,#FF0000,N,100.00%,Y
+272,122,1625,1199,Legislative District 22,32,"State Representative District 22, Position A-Democratic",1,1,N,N,N,0,0,4091,Natalie R. MacLachlan,DEM,Democratic Party,64,386,582,0,1032,9724,0,0,101,#0000FF,N,100.00%,Y
+273,122,1626,1199,Legislative District 22,32,"State Representative District 22, Position A-Republican",1,1,N,N,N,0,0,4092,Greg Ferch,REP,Republican Party,265,566,2569,0,3400,9724,0,3,1010,#FF0000,N,46.59%,Y
+274,122,1626,1199,Legislative District 22,32,"State Representative District 22, Position A-Republican",1,1,N,N,N,0,0,4093,John Vander Woude,REP,Republican Party,299,816,2783,0,3898,9724,0,3,1010,#FF0000,N,53.41%,Y
+275,122,1627,1199,Legislative District 22,32,"State Representative District 22, Position B-Democratic",1,1,N,N,N,0,0,4094,Dawn Pierce,DEM,Democratic Party,62,378,567,0,1007,9724,0,0,128,#0000FF,N,100.00%,Y
+276,122,1628,1199,Legislative District 22,32,"State Representative District 22, Position B-Republican",1,1,N,N,N,0,0,4095,Jason A. Monks,REP,Republican Party,461,1052,4476,0,5989,9724,0,0,2282,#FF0000,N,100.00%,Y
+277,122,1629,1200,Legislative District 23,33,State Senator District 23-Democratic,1,1,N,N,N,0,0,4096,Mik Lose,DEM,Democratic Party,26,162,272,0,460,6457,0,0,47,#0000FF,N,100.00%,Y
+278,122,1630,1200,Legislative District 23,33,State Senator District 23-Libertarian,1,1,N,N,N,0,0,4097,Jon Basabe,LIB,Libertarian Party,0,3,19,0,22,6457,0,0,7,#FFFF00,N,100.00%,Y
+279,122,1631,1200,Legislative District 23,33,State Senator District 23-Republican,1,1,N,N,N,0,0,4098,Steve Allmer,REP,Republican Party,151,239,2206,0,2596,6457,0,1,676,#FF0000,N,38.51%,Y
+280,122,1631,1200,Legislative District 23,33,State Senator District 23-Republican,1,1,N,N,N,0,0,4099,Todd Lakey,REP,Republican Party,248,473,3424,0,4145,6457,0,1,676,#FF0000,N,61.49%,Y
+281,122,1632,1200,Legislative District 23,33,"State Representative District 23, Position A-Republican",1,1,N,N,N,0,0,4100,Melissa Durrant,REP,Republican Party,109,228,1984,0,2321,6457,0,2,634,#FF0000,N,34.10%,Y
+282,122,1632,1200,Legislative District 23,33,"State Representative District 23, Position A-Republican",1,1,N,N,N,0,0,4101,Jason Knopp,REP,Republican Party,75,210,999,0,1284,6457,0,2,634,#FF0000,N,18.87%,Y
+283,122,1632,1200,Legislative District 23,33,"State Representative District 23, Position A-Republican",1,1,N,N,N,0,0,4102,Michael Law,REP,Republican Party,78,148,1052,0,1278,6457,0,2,634,#FF0000,N,18.78%,Y
+284,122,1632,1200,Legislative District 23,33,"State Representative District 23, Position A-Republican",1,1,N,N,N,0,0,4103,Tammy Payne,REP,Republican Party,129,140,1654,0,1923,6457,0,2,634,#FF0000,N,28.25%,Y
+285,122,1633,1200,Legislative District 23,33,"State Representative District 23, Position B-Republican",1,1,N,N,N,0,0,4104,Chris Bruce,REP,Republican Party,96,133,1199,0,1428,6457,0,3,836,#FF0000,N,21.81%,Y
+286,122,1633,1200,Legislative District 23,33,"State Representative District 23, Position B-Republican",1,1,N,N,N,0,0,4105,Tina Lambert,REP,Republican Party,138,202,2192,0,2532,6457,0,3,836,#FF0000,N,38.68%,Y
+287,122,1633,1200,Legislative District 23,33,"State Representative District 23, Position B-Republican",1,1,N,N,N,0,0,4106,Shaun Laughlin,REP,Republican Party,111,323,1492,0,1926,6457,0,3,836,#FF0000,N,29.42%,Y
+288,122,1633,1200,Legislative District 23,33,"State Representative District 23, Position B-Republican",1,1,N,N,N,0,0,4107,Lyman Gene Winchester,REP,Republican Party,37,42,581,0,660,6457,0,3,836,#FF0000,N,10.08%,Y
+289,122,1634,1201,Legislative District 24,34,State Senator District 24-Republican,1,1,N,N,N,0,0,4108,Jim Patrick,REP,Republican Party,490,736,2680,0,3906,0,0,1,492,#FF0000,N,49.76%,Y
+290,122,1634,1201,Legislative District 24,34,State Senator District 24-Republican,1,1,N,N,N,0,0,4109,Glenneda Zuiderveld,REP,Republican Party,405,1046,2492,0,3943,0,0,1,492,#FF0000,N,50.24%,Y
+291,122,1635,1201,Legislative District 24,34,"State Representative District 24, Position A-Republican",1,1,N,N,N,0,0,4110,Chenele Dixon,REP,Republican Party,687,1412,4032,0,6131,0,0,0,1044,#FF0000,N,84.40%,Y
+292,122,1635,1201,Legislative District 24,34,"State Representative District 24, Position A-Republican",1,1,N,N,N,0,0,4111,Tori Orgain-Wakewood,REP,Republican Party,121,268,744,0,1133,0,0,0,1044,#FF0000,N,15.60%,Y
+293,122,1636,1201,Legislative District 24,34,"State Representative District 24, Position B-Republican",1,1,N,N,N,0,0,4112,Creighton Knight,REP,Republican Party,304,683,2268,0,3255,0,0,3,755,#FF0000,N,42.71%,Y
+294,122,1636,1201,Legislative District 24,34,"State Representative District 24, Position B-Republican",1,1,N,N,N,0,0,4113,Steve Miller,REP,Republican Party,535,1090,2741,0,4366,0,0,3,755,#FF0000,N,57.29%,Y
+295,122,1637,1202,Legislative District 25,35,State Senator District 25-Constitution,1,1,N,N,N,0,0,4114,Paul Thompson,CON,Constitution Party,0,0,10,0,10,0,0,0,2,#FF6600,N,100.00%,Y
+296,122,1638,1202,Legislative District 25,35,State Senator District 25-Republican,1,1,N,N,N,0,0,4115,Linda Wright Hartgen,REP,Republican Party,662,0,3403,0,4065,0,0,0,1218,#FF0000,N,100.00%,Y
+297,122,1639,1202,Legislative District 25,35,"State Representative District 25, Position A-Republican",1,1,N,N,N,0,0,4116,Lance Clow,REP,Republican Party,640,0,3380,0,4020,0,0,0,1263,#FF0000,N,100.00%,Y
+298,122,1640,1202,Legislative District 25,35,"State Representative District 25, Position B-Republican",1,1,N,N,N,0,0,4117,Rocky Ferrenburg,REP,Republican Party,183,0,1070,0,1253,0,0,1,713,#FF0000,N,27.42%,Y
+299,122,1640,1202,Legislative District 25,35,"State Representative District 25, Position B-Republican",1,1,N,N,N,0,0,4118,Gregory Lanting,REP,Republican Party,588,0,2728,0,3316,0,0,1,713,#FF0000,N,72.58%,Y
+300,122,1641,1203,Legislative District 26,36,State Senator District 26-Democratic,1,1,N,N,N,0,0,4119,Ron C Taylor,DEM,Democratic Party,243,469,1428,0,2140,0,0,0,202,#0000FF,N,100.00%,Y
+301,122,1642,1203,Legislative District 26,36,State Senator District 26-Republican,1,1,N,N,N,0,0,4120,Laurie Lickley,REP,Republican Party,223,290,2830,0,3343,0,0,4,285,#FF0000,N,63.09%,Y
+302,122,1642,1203,Legislative District 26,36,State Senator District 26-Republican,1,1,N,N,N,0,0,4121,Eric Parker,REP,Republican Party,64,167,1725,0,1956,0,0,4,285,#FF0000,N,36.91%,Y
+303,122,1643,1203,Legislative District 26,36,"State Representative District 26, Position A-Democratic",1,1,N,N,N,0,0,4122,Ned Burns,DEM,Democratic Party,255,469,1454,0,2178,0,0,0,165,#0000FF,N,100.00%,Y
+304,122,1644,1203,Legislative District 26,36,"State Representative District 26, Position A-Republican",1,1,N,N,N,0,0,4123,Mike Pohanka,REP,Republican Party,160,384,4012,0,4556,0,0,0,946,#FF0000,N,100.00%,Y
+305,122,1645,1203,Legislative District 26,36,"State Representative District 26, Position B-Democratic",1,1,N,N,N,0,0,4124,Karma Metzler Fitzgerald,DEM,Democratic Party,241,465,1416,0,2122,0,0,0,223,#0000FF,N,100.00%,Y
+306,122,1646,1203,Legislative District 26,36,"State Representative District 26, Position B-Republican",1,1,N,N,N,0,0,4125,Lyle Johnstone,REP,Republican Party,55,165,1924,0,2144,0,0,0,686,#FF0000,N,44.23%,Y
+307,122,1646,1203,Legislative District 26,36,"State Representative District 26, Position B-Republican",1,1,N,N,N,0,0,4126,Jack Nelsen,REP,Republican Party,167,245,2291,0,2703,0,0,0,686,#FF0000,N,55.77%,Y
+308,122,1647,1204,Legislative District 27,37,State Senator District 27-Republican,1,1,N,N,N,0,0,4127,Kelly Anthon,REP,Republican Party,622,346,5234,0,6202,0,0,1,109,#FF0000,N,73.78%,Y
+309,122,1647,1204,Legislative District 27,37,State Senator District 27-Republican,1,1,N,N,N,0,0,4128,Jeanie Hakes,REP,Republican Party,155,101,1948,0,2204,0,0,1,109,#FF0000,N,26.22%,Y
+310,122,1648,1204,Legislative District 27,37,"State Representative District 27, Position A-Republican",1,1,N,N,N,0,0,4129,Douglas T Pickett,REP,Republican Party,585,367,5775,0,6727,0,0,0,356,#FF0000,N,83.18%,Y
+311,122,1648,1204,Legislative District 27,37,"State Representative District 27, Position A-Republican",1,1,N,N,N,0,0,4130,Carl C Voigt,REP,Republican Party,155,74,1131,0,1360,0,0,0,356,#FF0000,N,16.82%,Y
+312,122,1649,1204,Legislative District 27,37,"State Representative District 27, Position B-Republican",1,1,N,N,N,0,0,4131,Ryan Cook,REP,Republican Party,27,5,278,0,310,0,0,2,151,#FF0000,N,3.72%,Y
+313,122,1649,1204,Legislative District 27,37,"State Representative District 27, Position B-Republican",1,1,N,N,N,0,0,4132,Pat Field,REP,Republican Party,140,132,1564,0,1836,0,0,2,151,#FF0000,N,22.05%,Y
+314,122,1649,1204,Legislative District 27,37,"State Representative District 27, Position B-Republican",1,1,N,N,N,0,0,4133,Clay Handy,REP,Republican Party,355,156,2935,0,3446,0,0,2,151,#FF0000,N,41.39%,Y
+315,122,1649,1204,Legislative District 27,37,"State Representative District 27, Position B-Republican",1,1,N,N,N,0,0,4134,John Stokes,REP,Republican Party,172,94,1697,0,1963,0,0,2,151,#FF0000,N,23.58%,Y
+316,122,1649,1204,Legislative District 27,37,"State Representative District 27, Position B-Republican",1,1,N,N,N,0,0,4135,Kevin Williams,REP,Republican Party,73,58,640,0,771,0,0,2,151,#FF0000,N,9.26%,Y
+317,122,1650,1205,Legislative District 28,38,State Senator District 28-Republican,1,1,N,N,N,0,0,4136,Tom Branson,REP,Republican Party,105,25,1053,0,1183,2614,0,4,492,#FF0000,N,18.95%,Y
+318,122,1650,1205,Legislative District 28,38,State Senator District 28-Republican,1,1,N,N,N,0,0,4137,Art da Rosa,REP,Republican Party,198,26,1452,0,1676,2614,0,4,492,#FF0000,N,26.85%,Y
+319,122,1650,1205,Legislative District 28,38,State Senator District 28-Republican,1,1,N,N,N,0,0,4138,Jim Guthrie,REP,Republican Party,437,76,2871,0,3384,2614,0,4,492,#FF0000,N,54.20%,Y
+320,122,1651,1205,Legislative District 28,38,"State Representative District 28, Position A-Republican",1,1,N,N,N,0,0,4139,Richard 'Rick' Cheatum,REP,Republican Party,405,67,2656,0,3128,2614,0,2,652,#FF0000,N,51.41%,Y
+321,122,1651,1205,Legislative District 28,38,"State Representative District 28, Position A-Republican",1,1,N,N,N,0,0,4140,Dawn L. Morrell,REP,Republican Party,322,54,2581,0,2957,2614,0,2,652,#FF0000,N,48.59%,Y
+322,122,1652,1205,Legislative District 28,38,"State Representative District 28, Position B-Republican",1,1,N,N,N,0,0,4141,Dan Garner,REP,Republican Party,334,60,2664,0,3058,2614,0,2,805,#FF0000,N,51.55%,Y
+323,122,1652,1205,Legislative District 28,38,"State Representative District 28, Position B-Republican",1,1,N,N,N,0,0,4142,R. Scott Workman,REP,Republican Party,337,77,2460,0,2874,2614,0,2,805,#FF0000,N,48.45%,Y
+324,122,1653,1206,Legislative District 29,39,State Senator District 29-Democratic,1,1,N,N,N,0,0,4143,James D. Ruchti,DEM,Democratic Party,592,0,785,0,1377,0,0,0,80,#0000FF,N,100.00%,Y
+325,122,1654,1206,Legislative District 29,39,State Senator District 29-Republican,1,1,N,N,N,0,0,4144,David T. Worley,REP,Republican Party,849,0,3054,0,3903,0,0,0,1293,#FF0000,N,100.00%,Y
+326,122,1655,1206,Legislative District 29,39,"State Representative District 29, Position A-Democratic",1,1,N,N,N,0,0,4145,Mary Shea,DEM,Democratic Party,591,0,769,0,1360,0,0,0,97,#0000FF,N,100.00%,Y
+327,122,1656,1206,Legislative District 29,39,"State Representative District 29, Position A-Republican",1,1,N,N,N,0,0,4146,Dustin Whitney Manwaring,REP,Republican Party,762,0,2038,0,2800,0,0,3,355,#FF0000,N,57.88%,Y
+328,122,1656,1206,Legislative District 29,39,"State Representative District 29, Position A-Republican",1,1,N,N,N,0,0,4147,S. Craig Yadon,REP,Republican Party,402,0,1636,0,2038,0,0,3,355,#FF0000,N,42.12%,Y
+329,122,1657,1206,Legislative District 29,39,"State Representative District 29, Position B-Democratic",1,1,N,N,N,0,0,4148,Nate Roberts,DEM,Democratic Party,585,0,761,0,1346,0,0,0,111,#0000FF,N,100.00%,Y
+330,122,1659,1206,Legislative District 29,39,"State Representative District 29, Position B-Republican",1,1,N,N,N,0,0,4150,Greg Romriell,REP,Republican Party,602,0,1666,0,2268,0,0,4,463,#FF0000,N,47.96%,Y
+331,122,1659,1206,Legislative District 29,39,"State Representative District 29, Position B-Republican",1,1,N,N,N,0,0,4151,Jake Stevens,REP,Republican Party,522,0,1939,0,2461,0,0,4,463,#FF0000,N,52.04%,Y
+332,122,1660,1207,Legislative District 30,40,State Senator District 30-Democratic,1,1,N,N,N,0,0,4152,Dave Archuleta,DEM,Democratic Party,25,81,203,0,309,0,0,0,37,#0000FF,N,100.00%,Y
+333,122,1661,1207,Legislative District 30,40,State Senator District 30-Republican,1,1,N,N,N,0,0,4153,Jerry D Bingham,REP,Republican Party,167,166,2950,0,3283,0,0,2,182,#FF0000,N,42.08%,Y
+334,122,1661,1207,Legislative District 30,40,State Senator District 30-Republican,1,1,N,N,N,0,0,4154,Julie VanOrden,REP,Republican Party,299,382,3837,0,4518,0,0,2,182,#FF0000,N,57.92%,Y
+335,122,1662,1207,Legislative District 30,40,"State Representative District 30, Position A-Republican",1,1,N,N,N,0,0,4155,David Cannon,REP,Republican Party,340,485,5875,0,6700,0,0,0,1228,#FF0000,N,100.00%,Y
+336,122,1663,1207,Legislative District 30,40,"State Representative District 30, Position B-Democratic",1,1,N,N,N,0,0,4156,Travis Oler,DEM,Democratic Party,22,81,203,0,306,0,0,0,39,#0000FF,N,100.00%,Y
+337,122,1664,1207,Legislative District 30,40,"State Representative District 30, Position B-Republican",1,1,N,N,N,0,0,4157,Julianne Young,REP,Republican Party,277,374,5327,0,5978,0,0,0,1949,#FF0000,N,100.00%,Y
+338,122,1665,1208,Legislative District 31,41,State Senator District 31-Republican,1,1,N,N,N,0,0,4158,Fran Bryson,REP,Republican Party,0,0,3310,0,3310,0,0,0,0,#FF0000,N,31.47%,Y
+339,122,1665,1208,Legislative District 31,41,State Senator District 31-Republican,1,1,N,N,N,0,0,4159,Van Burtenshaw,REP,Republican Party,0,0,7209,0,7209,0,0,0,0,#FF0000,N,68.53%,Y
+340,122,1666,1208,Legislative District 31,41,"State Representative District 31, Position A-Democratic",1,1,N,N,N,0,0,4160,Connie Delaney,DEM,Democratic Party,0,0,312,0,312,0,0,0,0,#0000FF,N,100.00%,Y
+341,122,1667,1208,Legislative District 31,41,"State Representative District 31, Position A-Republican",1,1,N,N,N,0,0,4161,Karey Hanks,REP,Republican Party,0,0,4785,0,4785,0,0,0,0,#FF0000,N,44.92%,Y
+342,122,1667,1208,Legislative District 31,41,"State Representative District 31, Position A-Republican",1,1,N,N,N,0,0,4162,Jerald Raymond,REP,Republican Party,0,0,5868,0,5868,0,0,0,0,#FF0000,N,55.08%,Y
+343,122,1668,1208,Legislative District 31,41,"State Representative District 31, Position B-Democratic",1,1,N,N,N,0,0,4163,Wayne Talmadge,DEM,Democratic Party,0,0,305,0,305,0,0,0,0,#0000FF,N,100.00%,Y
+344,122,1669,1208,Legislative District 31,41,"State Representative District 31, Position B-Republican",1,1,N,N,N,0,0,4164,Rod Furniss,REP,Republican Party,0,0,6573,0,6573,0,0,0,0,#FF0000,N,62.75%,Y
+345,122,1669,1208,Legislative District 31,41,"State Representative District 31, Position B-Republican",1,1,N,N,N,0,0,4165,Darnell Shipp,REP,Republican Party,0,0,3902,0,3902,0,0,0,0,#FF0000,N,37.25%,Y
+346,122,1670,1209,Legislative District 32,42,State Senator District 32-Republican,1,1,N,N,N,0,0,4166,Kevin Cook,REP,Republican Party,473,563,4164,0,5200,8308,0,1,760,#FF0000,N,74.84%,Y
+347,122,1670,1209,Legislative District 32,42,State Senator District 32-Republican,1,1,N,N,N,0,0,4167,Keith Newberry,REP,Republican Party,175,127,1446,0,1748,8308,0,1,760,#FF0000,N,25.16%,Y
+348,122,1671,1209,Legislative District 32,42,State Representative District 32-Position A-Republican,1,1,N,N,N,0,0,4168,Nicholas T. Christiansen,REP,Republican Party,233,195,2192,0,2620,8308,0,6,783,#FF0000,N,37.86%,Y
+349,122,1671,1209,Legislative District 32,42,State Representative District 32-Position A-Republican,1,1,N,N,N,0,0,4169,Stephanie Jo Mickelsen,REP,Republican Party,402,503,3395,0,4300,8308,0,6,783,#FF0000,N,62.14%,Y
+350,122,1672,1209,Legislative District 32,42,"State Representative District 32, Position B-Republican",1,1,N,N,N,0,0,4170,Wendy Horman,REP,Republican Party,445,521,4281,0,5247,8308,0,0,2462,#FF0000,N,100.00%,Y
+351,122,1673,1210,Legislative District 33,43,State Senator District 33-Republican,1,1,N,N,N,0,0,4171,Dave Lent,REP,Republican Party,395,470,2762,0,3627,6965,0,0,806,#FF0000,N,67.86%,Y
+352,122,1673,1210,Legislative District 33,43,State Senator District 33-Republican,1,1,N,N,N,0,0,4172,Bryan Scholz,REP,Republican Party,153,109,1456,0,1718,6965,0,0,806,#FF0000,N,32.14%,Y
+353,122,1674,1210,Legislative District 33,43,"State Representative District 33, Position A-Democratic",1,1,N,N,N,0,0,4173,Miranda Marquit,DEM,Democratic Party,54,146,303,0,503,6965,0,0,121,#0000FF,N,100.00%,Y
+354,122,1675,1210,Legislative District 33,43,"State Representative District 33, Position A-Republican",1,1,N,N,N,0,0,4174,Barbara Ehardt,REP,Republican Party,271,233,2814,0,3318,6965,0,4,300,#FF0000,N,56.75%,Y
+355,122,1675,1210,Legislative District 33,43,"State Representative District 33, Position A-Republican",1,1,N,N,N,0,0,4175,Jeff Thompson,REP,Republican Party,312,376,1841,0,2529,6965,0,4,300,#FF0000,N,43.25%,Y
+356,122,1676,1210,Legislative District 33,43,"State Representative District 33, Position B-Republican",1,1,N,N,N,0,0,4176,Marco Erickson,REP,Republican Party,372,426,3232,0,4030,6965,0,0,2121,#FF0000,N,100.00%,Y
+357,122,1677,1211,Legislative District 34,44,State Senator District 34-Republican,1,1,N,N,N,0,0,4177,Doug Ricks,REP,Republican Party,0,0,4517,0,4517,0,0,0,0,#FF0000,N,100.00%,Y
+358,122,1678,1211,Legislative District 34,44,"State Representative District 34, Position A-Republican",1,1,N,N,N,0,0,4178,"Jason ""JD"" Drollinger",REP,Republican Party,0,0,2274,0,2274,0,0,0,0,#FF0000,N,44.60%,Y
+359,122,1678,1211,Legislative District 34,44,"State Representative District 34, Position A-Republican",1,1,N,N,N,0,0,4179,Jon O. Weber,REP,Republican Party,0,0,2825,0,2825,0,0,0,0,#FF0000,N,55.40%,Y
+360,122,1679,1211,Legislative District 34,44,"State Representative District 34, Position B-Republican",1,1,N,N,N,0,0,4180,Ron Nate,REP,Republican Party,0,0,2605,0,2605,0,0,0,0,#FF0000,N,49.66%,Y
+361,122,1679,1211,Legislative District 34,44,"State Representative District 34, Position B-Republican",1,1,N,N,N,0,0,4181,Britt Raybould,REP,Republican Party,0,0,2641,0,2641,0,0,0,0,#FF0000,N,50.34%,Y
+362,122,1680,1212,Legislative District 35,45,State Senator District 35-Republican,1,1,N,N,N,0,0,4182,Mark Harris,REP,Republican Party,1128,311,3975,0,5414,5860,0,6,766,#FF0000,N,63.66%,Y
+363,122,1680,1212,Legislative District 35,45,State Senator District 35-Republican,1,1,N,N,N,0,0,4183,Doug Toomer,REP,Republican Party,493,127,2470,0,3090,5860,0,6,766,#FF0000,N,36.34%,Y
+364,122,1681,1212,Legislative District 35,45,"State Representative District 35, Position A-Republican",1,1,N,N,N,0,0,4184,Kevin Andrus,REP,Republican Party,804,225,4143,0,5172,5860,0,3,649,#FF0000,N,60.31%,Y
+365,122,1681,1212,Legislative District 35,45,"State Representative District 35, Position A-Republican",1,1,N,N,N,0,0,4185,Jon Goode,REP,Republican Party,833,221,2350,0,3404,5860,0,3,649,#FF0000,N,39.69%,Y
+366,122,1682,1212,Legislative District 35,45,"State Representative District 35, Position B-Republican",1,1,N,N,N,0,0,4186,Chad Christensen,REP,Republican Party,721,177,3454,0,4352,5860,0,9,354,#FF0000,N,48.00%,Y
+367,122,1682,1212,Legislative District 35,45,"State Representative District 35, Position B-Republican",1,1,N,N,N,0,0,4187,Josh Wheeler,REP,Republican Party,915,288,3511,0,4714,5860,0,9,354,#FF0000,N,52.00%,Y
